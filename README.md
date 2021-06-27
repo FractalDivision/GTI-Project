@@ -1,4 +1,5 @@
-# gti-project
+# GTI-Project
+
 Final project for 2020 college
 
 Integrating GUI+MySQL
