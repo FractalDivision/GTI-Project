@@ -9,7 +9,12 @@ Final project for 2020 college
 
 TODO/FIX:
 first frame works fine
+
 teacherframe works
+
 addedit student works testing connection to databaseCan not issue data manipulation statements with executeQuery().
+
 addedit teacher works Can not issue data manipulation statements with executeQuery().
+
 sfullreport Exception in thread "AWT-EventQueue-0" java.lang.NullPointerException
+
